@@ -1,0 +1,1 @@
+document.write("<strong>Sample Sachiko-kame</strong>");
