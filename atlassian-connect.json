@@ -2,7 +2,7 @@
    "name": "Hello World",
    "description": "Atlassian Connect app",
    "key": "com.example.myapp",
-   "baseUrl": "https://6269de5da0b9.ngrok.io",
+   "baseUrl": "https://sachiko-kame.github.io/JIRAAPP-Sachiko-kame",
    "vendor": {
        "name": "Example, Inc.",
        "url": "http://example.com"
